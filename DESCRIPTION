@@ -11,8 +11,6 @@ Authors@R:
 Description: An Example
 License: What license it uses
 Depends: 
-    R (>= 3.5.0)
-Imports:
     robumeta,
     metafor,
     dplyr
